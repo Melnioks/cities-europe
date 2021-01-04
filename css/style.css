@@ -208,11 +208,11 @@ input {
 
 #h {
   background: url(../img/mig53.jpg) no-repeat center top;
-  padding-top: 90px;
+  padding-top: 100px;
   text-align: center;
   background-attachment: relative;
-  background-position: top center;
-  min-height: 330px;
+  background-position: center center;
+  min-height: 450px;
   width: 100%;
   color: white;
   -webkit-background-size: 100%;
