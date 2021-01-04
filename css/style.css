@@ -80,8 +80,8 @@ html, body {
 }
 
 .ptb {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 .clear {
@@ -208,11 +208,11 @@ input {
 
 #h {
   background: url(../img/mig53.jpg) no-repeat center top;
-  padding-top: 180px;
+  padding-top: 90px;
   text-align: center;
   background-attachment: relative;
-  background-position: center center;
-  min-height: 300px;
+  background-position: top center;
+  min-height: 330px;
   width: 100%;
   color: white;
   -webkit-background-size: 100%;
@@ -317,8 +317,6 @@ input {
 /* Pricing Tables */
 
 .price-table {
-  padding-top: 15px;
-  padding-bottom: 25px;
   margin: 5px;
 }
 
@@ -333,7 +331,7 @@ input {
 
 .price-table .p-body .features li {
   color: #333333;
-  padding: 24px 0px;
+  padding: 12px 0px;
   margin: 0;
   letter-spacing: 1px;
   text-align: left;
